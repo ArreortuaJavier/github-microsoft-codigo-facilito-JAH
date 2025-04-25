@@ -19,3 +19,11 @@ No hace falta que sea algo grande, lo importante es que podamos practicar y cola
 - Crear una 📁 carpeta ```varios``` para aportes de colaboradores que no se refieran específicamente a ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) pero que quieran compartir como ser guías, tutoriales, herramientas, lenguajes, código, cheatsheet, etc.
 
 (Agregá tu idea abajo, es opcional agregar tu nombre)
+
+# Idea, para tus repos
+## Visual Studio Code
+
+si has tomado anteriormente el curso de Visual Studio Code y GitHub Copilot, puedes sincronizar el repositorio compartido por Código Facilito, y practicar con los comandos GIT
+git add
+git commit
+Mencionados en la clase 2
